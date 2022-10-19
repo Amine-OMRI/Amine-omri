@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[Achievements]([https://www.google.com](https://www.credly.com/users/amine-omri/badges))
+[Certifications]([https://www.google.com](https://www.credly.com/users/amine-omri/badges)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amine-omri&count_private=true&show_icons=true&theme=dark)
 <!--
