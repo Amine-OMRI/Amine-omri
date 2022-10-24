@@ -1,7 +1,6 @@
 ### Hi there 👋 
 [Certifications](https://www.credly.com/users/amine-omri/badges)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amine-omri&count_private=true&show_icons=true&theme=dark)
 <!--
 **Amine-OMRI/Amine-omri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
